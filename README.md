@@ -1,6 +1,6 @@
 # case_studies
 
-Case Study 3 - classification analysis to identify and seperate high income groups from low income groups
+#### Case Study 3 - Classification analysis to identify and seperate high income groups from low income groups
 
 Steps invovled :
 
@@ -14,7 +14,7 @@ Steps invovled :
 
 5) Hyperparameter Optimization (Grid Search)
 
-Case Study 4 - regression analysis to predict insurance premiums
+#### Case Study 4 - Regression analysis to predict insurance premiums
 
 Steps involved :
 
